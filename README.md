@@ -1,7 +1,8 @@
-Employee Salary Prediction Model 📊
+Employee Salary Prediction Model 📊:
 A machine learning project designed to predict employee salaries based on various factors such as experience, education, role, and location. This model aims to provide insights for fair compensation, budgeting, and recruitment processes.
 
-Features ✨
+Features ✨:
+
 Machine Learning Powered: Utilizes  Random Forest for accurate salary prediction.
 
 Feature Engineering: Includes steps for handling categorical variables, numerical scaling, and potential interaction features.
